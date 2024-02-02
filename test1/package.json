@@ -1,0 +1,29 @@
+{
+  "name": "Prisma",
+  "version": "1.0.0",
+  "description": "Getting started with a NodeJS Library `Prisma` - A database toolkit for web dev. - Simplifies database interaction. - Learning it to use it in NextJS projects `https://github.com/johnmark287/NextJS`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/johnmark287/Prisma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnmark287/Prisma/issues"
+  },
+  "homepage": "https://github.com/johnmark287/Prisma#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.8.1",
+    "prisma": "^5.8.1"
+  }
+}

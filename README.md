@@ -9,3 +9,11 @@ Used with:
 - MySQL
 - Postgres
 - Mongodb
+
+## Parts
+- Prisma client
+- Prisma migrate
+- Prisma studio
+
+# test2
+
