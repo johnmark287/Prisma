@@ -1,5 +1,7 @@
 # Prisma Library
 
+**Prisma as an ORM**
+
 Getting started with a NodeJS Library `Prisma`
 - A database toolkit for web dev.
 - Simplifies database interaction.
@@ -14,6 +16,3 @@ Used with:
 - Prisma client
 - Prisma migrate
 - Prisma studio
-
-# test2
-
